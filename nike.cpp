@@ -16,9 +16,9 @@ int main()
 		} 
 	
     }
-	if(flag==0)
+	/*if(flag==0)
 	{
 	printf("%d is not in array",x);
     }
-	getch();
+	getch();*/
 }
